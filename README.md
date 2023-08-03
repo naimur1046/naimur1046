@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <h3 align="center">A passionate Full-Stack developer and Android Developer</h3>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=9A56EBEDA2ED706CA061C9CCA9A1E67B7B85CF76&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fwww.sarvika.com%2fwp-content%2fuploads%2f2021%2f03%2fBackend-Developer-Python-GIF-Dribble.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2c41f9b5411045e59ef08bbe5045773e%3frik%3dds%252bFe3vmoanMyQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+img&simid=607996129304920817&FORM=IRPRST&ck=2A94389394914F3F294007A7885AE40B&selectedIndex=5&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **Django and Phython**
 
