@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Full-Stack developer and Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div align="center">
+<!-- <div align="center">
 <a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
-<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
+<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a> -->
 
 </div>
 - 🌱 I’m currently learning **Django and Phython**
