@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/naimur1046">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript+%7C+C%23;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+Redux;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript+%7C+C%23;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+Redux;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
