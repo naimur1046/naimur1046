@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Full-Stack developer and Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<div align="center">
+<a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
+<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
+
+</div>
 - 🌱 I’m currently learning **Django and Phython**
 
 - 🤝 I’m looking for help with **Python Data Analyist**
@@ -14,15 +20,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="www.linkedin.com/in/naimur-rahman-rumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naimur-rahman-rumel" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21108396/naimur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21108396/naimur-rahman" height="30" width="40" /></a>
+
 <a href="https://fb.com/https://www.facebook.com/naimurrumel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naimurrumel/" height="30" width="40" /></a>
+
 <a href="https://instagram.com/naimur_rahaman_rumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimur_rahaman_rumel" height="30" width="40" /></a>
+
 <a href="https://medium.com/@naimurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naimurrahman" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/solution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solution" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/naimurrahman1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naimurrahman1046" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/naimur1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naimur1046" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/naimurrahman1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/naimurrahman1046" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
