@@ -47,7 +47,102 @@
 <a href="https://www.leetcode.com/naimur1046" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
 
 <!-- <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a> -->
-
 </p>
+</div>
 
+<!-- Banners 4th Phase : SpiderMan
+
+#### 🦖 Competitive Programming
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### 📚 Frontend Development & Frameworks
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+#### ⛏️ Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) -->
+
+<div align="center">
+  <h2>🚀 Technologies I Work With</h2>
+  
+  <h3>🖥️ Programming Languages</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="35">
+  </p>
+  
+  <h3>🌐 Web Development</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg" height="35">
+  </p>
+  
+  <h3>🔧 Backend & Databases</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" height="35">
+   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-rounded&logo=dotnet&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-rounded&logo=dotnet&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/NHibernate-brown?style=flat-rounded&logo=hibernate&logoColor=white" height="35">
+
+  </p>
+  
+  <h3>📱 Mobile & App Development</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="35">
+  </p>
+  
+  <h3>🛠️ Tools & Platforms</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg" height="35">
+    <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=plastic&logo=rider&logoColor=white" height="35">
+  </p>
+  
+  <h3>🎨 Design & Collaboration</h3>
+  <p>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" height="35">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="35">
+  </p>
 </div>
