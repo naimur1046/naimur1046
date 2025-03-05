@@ -1,115 +1,58 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/naimur1046">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+Redux;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+%7C+Redux+%7C+Typescript;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML+%7C+Postman;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;of+Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
-<h3 align="center">A passionate Full-Stack developer and Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="images/backgroundImage5.png"/>
 
-<!-- <div align="center">
-<a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
-<a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
-<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a> -->
-
+<div align="center" style="margin-2">
+<a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/viewusp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Naimur-blue" width="200" height="35"></a>
+<a href = "www.linkedin.com/in/naimur-rahman-rumel" ><img src="https://img.shields.io/badge/Profile-My%20Linkdin-red" width="220"height="35"></a>
 </div>
-- 🌱 I’m currently learning **Django and Phython**
 
-- 🤝 I’m looking for help with **Python Data Analyist**
+<h1 align="center">Hi👋, I am Naimur Rahman Rumel </h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/naimur1046](https://github.com/naimur1046)
+<h2>
+ I am currently a <b>Trainee Software Engineer</b> at
+  <a herf="https://www.linkedin.com/company/onnorokom-projukti-limited/posts/?feedView=all"><b>OnnoRokom Projukti Limited</b></a>
+</h2>
 
-- 💬 Ask me about **react, MongoDB, JavaScript, Java, Python, C++, C**
+<p align="center" width="150px">
+  Besides, I am currently serving as the President of <strong> Noakhali Association, SUST </strong> , the General Secretary of <strong> Fusion Students Association </strong> , and the Convenor of <strong> Bangladesh Youth Council. </strong>  Additionally, I hold the position of Publication Secretary at <strong> Sher-E-Bangla Youth Society </strong> and work as a Campus Ambassador for Campus News. Previously, I served as the General Secretary of Ongikar Cultural Organization,
+</p> -->
 
-- 📫 You can reach me **naimurrahman1046@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="www.linkedin.com/in/naimur-rahman-rumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naimur-rahman-rumel" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21108396/naimur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21108396/naimur-rahman" height="30" width="40" /></a>
-
-<a href="https://fb.com/https://www.facebook.com/naimurrumel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naimurrumel/" height="30" width="40" /></a>
-
-<a href="https://instagram.com/naimur_rahaman_rumel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimur_rahaman_rumel" height="30" width="40" /></a>
-
-<a href="https://medium.com/@naimurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naimurrahman" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/solution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="solution" height="30" width="40" /></a>
-
-<a href="https://codeforces.com/profile/naimurrahman1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naimurrahman1046" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/naimur1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naimur1046" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/naimurrahman1046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/naimurrahman1046" height="30" width="40" /></a>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>README</title>
+</head>
+<body class="p-4">
+  <p align="center">
+  <a href="https://github.com/naimur1046">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+%7C+Redux+%7C+Typescript;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML+%7C+Postman;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;of+Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-     </a> 
-     <a href="https://angular.io" target="_blank" rel="noreferrer">
-           <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-     </a>
-     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-     </a>
-     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-     </a> 
-     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-     </a>
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-     </a>
-     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-     </a> 
-     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-           <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-     </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-     </a>
-     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-     </a>
-     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-     </a> 
-     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-     </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-     </a>
-      <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-     </a> 
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-     </a> 
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-     </a>
-     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-     </a> 
-     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-     </a> 
-     <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-     </a> 
-     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-     </a> 
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-     </a> 
+<img src="images/backgroundImage5.png"/>
+
+<div align="center" style="margin-2">
+<a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/viewusp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Naimur-blue" width="200" height="35"></a>
+<a href = "www.linkedin.com/in/naimur-rahman-rumel" ><img src="https://img.shields.io/badge/Profile-My%20Linkdin-red" width="220"height="35"></a>
+</div>
+
+<h1 align="center">Hi👋, I am Naimur Rahman Rumel </h1>
+
+<h2>
+ I am currently a <b>Trainee Software Engineer</b> at
+  <a herf="https://www.linkedin.com/company/onnorokom-projukti-limited/posts/?feedView=all"><b>OnnoRokom Projukti Limited</b></a>
+</h2>
+
+<p align="center" width="150px">
+  Besides, I am currently serving as the President of <strong> Noakhali Association, SUST </strong> , the General Secretary of <strong> Fusion Students Association </strong> , and the Convenor of <strong> Bangladesh Youth Council. </strong>  Additionally, I hold the position of Publication Secretary at <strong> Sher-E-Bangla Youth Society </strong> and work as a Campus Ambassador for Campus News. Previously, I served as the General Secretary of Ongikar Cultural Organization,
 </p>
+</body>
+</html>
