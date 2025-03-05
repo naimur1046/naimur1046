@@ -24,6 +24,6 @@
 
   <!-- Github Profile Summary Cards -->
 <p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur1046&theme=moltack"  />
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur1046&theme=dracula"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur1046&theme=gruvbox"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur1046&theme=gruvbox"  />
 </p>
