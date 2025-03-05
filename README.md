@@ -19,5 +19,11 @@
 </h2>
 
 <p align="center" width="150px">
-  Besides, I am currently serving as the President of <strong> Noakhali Association, SUST </strong> , the General Secretary of <strong> Fusion Students Association </strong> , and the Convenor of <strong> Bangladesh Youth Council. </strong>  Additionally, I hold the position of Publication Secretary at <strong> Sher-E-Bangla Youth Society </strong> and work as a Campus Ambassador for Campus News. Previously, I served as the General Secretary of Ongikar Cultural Organization,
+  Besides, I am currently serving as the President of <strong> Noakhali Association, SUST </strong> , the General Secretary of <strong> Fusion Students Association </strong> , and the Convenor of <strong> Bangladesh Youth Council. </strong>  Additionally, I hold the position of Publication Secretary at <strong> Sher-E-Bangla Youth Society </strong> and work as a Campus Ambassador for Campus News. Previously, I served as the General Secretary of Ongikar Cultural Organization.
+</p>
+
+  <!-- Github Profile Summary Cards -->
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur1046&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur1046&theme=dracula"  />
 </p>
