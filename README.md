@@ -27,3 +27,27 @@
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur1046&theme=gruvbox"  />
  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur1046&theme=gruvbox"  />
 </p>
+
+<!-- Contact Section -->
+
+<div align="center">
+
+## 📞 Connect with me
+
+<p align="center">
+<a href="mailto:naimurrahman1046@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
+<a href="https://fb.com/https://www.facebook.com/naimurrumel"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  /></a>
+<a href="https://instagram.com/naimur_rahaman_rumel"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
+<a href="www.linkedin.com/in/naimur-rahman-rumel"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+<a href="https://medium.com/@naimurrahman" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumontasaha80" height="30" width="42" /></a>
+<a href="https://twitter.com/sumonta_saha" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
+<a href="https://www.youtube.com/@DecodeComplexity" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
+<a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://codeforces.com/profile/naimurrahman1046" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://www.leetcode.com/naimur1046" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
+
+<!-- <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a> -->
+
+</p>
+
+</div>
