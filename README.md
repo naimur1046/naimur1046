@@ -7,19 +7,18 @@
 <img src="images/backgroundImage5.png"/>
 
 <div align="center" style="padding-top: 15px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;" >
-<a href = "https://drive.google.com/file/d/1XDzet1HUo4RJHWXK-OiQrjWiGPQFozhq/viewusp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Naimur-blue" width="200" height="35"></a>
+<a href = "https://drive.google.com/drive/folders/1qZQtdmRlar6E0iSr1UnqutANnFNYo1lP?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Naimur-blue" width="200" height="35"></a>
 <a href = "www.linkedin.com/in/naimur-rahman-rumel" ><img src="https://img.shields.io/badge/Profile-My%20Linkdin-red" width="220"height="35"></a>
 </div>
 
 <h1 align="center" style="padding-top: 10px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px;">Hi👋, I am Naimur Rahman Rumel </h1>
 
 <h2 align="center"  class="feature">
- I am currently a <b>Trainee Software Engineer</b> at
+ I am currently a <b>Assistant Software Engineer</b> at
   <a herf="https://www.linkedin.com/company/onnorokom-projukti-limited/posts/?feedView=all"><b>OnnoRokom Projukti Limited</b></a>
 </h2>
 
-<p align="center" width="150px">
-  Besides, I am currently serving as the President of <strong> Noakhali Association, SUST </strong> , the General Secretary of <strong> Fusion Students Association </strong> , and the Convenor of <strong> Bangladesh Youth Council. </strong>  Additionally, I hold the position of Publication Secretary at <strong> Sher-E-Bangla Youth Society </strong> and work as a Campus Ambassador for Campus News. Previously, I served as the General Secretary of Ongikar Cultural Organization.
+<p align="center" width="150px"> I previously held several leadership roles, including President of <strong>Noakhali Association, SUST</strong>, General Secretary of the <strong>Fusion Students Association</strong>, and Convenor of the <strong>Bangladesh Youth Council</strong>. I also served as the Publication Secretary of the <strong>Sher-E-Bangla Youth Society</strong> and as a Campus Ambassador for Campus News. Earlier, I was the General Secretary of the <strong>Ongikar Cultural Organization</strong>. I have since stepped down from all these positions to focus on my passion for research and academic pursuits. 
 </p>
 
   <!-- Github Profile Summary Cards -->
