@@ -8,7 +8,7 @@
 
 <div align="center" style="padding-top: 15px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;" >
 <a href = "https://drive.google.com/drive/folders/1qZQtdmRlar6E0iSr1UnqutANnFNYo1lP?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Naimur-blue" width="200" height="35"></a>
-<a href = "www.linkedin.com/in/naimur-rahman-rumel" ><img src="https://img.shields.io/badge/Profile-My%20Linkdin-red" width="220"height="35"></a>
+<a href = "https://www.linkedin.com/in/naimur-rahman-rumel" ><img src="https://img.shields.io/badge/Profile-My%20Linkdin-red" width="220"height="35"></a>
 </div>
 
 <h1 align="center" style="padding-top: 10px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px;">Hi👋, I am Naimur Rahman Rumel </h1>
