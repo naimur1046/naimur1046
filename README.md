@@ -1,6 +1,6 @@
 <p align="center" style="padding-top:10px">
   <a href="https://github.com/naimur1046">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Intern+Software+Engineer+OnnoRokom+IT;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+%7C+Redux+%7C+Typescript;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML+%7C+Postman;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;of+Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Assistant+Software+Engineer+OnnoRokom+Projukti+Limited;Problem+Solver+%7C+DS+%7C+Algorithm+%7C+OOP;Java+%7C+C%2B%2B+%7C+C+%7C+Python+%7C+JavaScript;ASP.NET+Core+MVC;+ASP.NET+Core+API;React+%7C+Redux+%7C+Typescript;MySQL+%7C+MongoDB%7C+Node.js;Docker+%7C+ML+%7C+Postman;GS+of+Fushion+Student+Association;Convenor+of+BYC;Campus+Ambassador+of+Campus+News;Publication+Secretary;of+Sher-E-Bangla+Nagar+Youth+Society;&center=true&font=Fira+Code&size=18&color=00FF00&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
